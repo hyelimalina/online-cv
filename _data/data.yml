@@ -26,14 +26,17 @@ sidebar:
       - idiom: German
         level: Beginner
 
+      - idiom: Japanese
+        level: Beginner
+
     interests:
-      - item: Climbing
+      - item: Hanging out with dogs
         link:
 
-      - item: Snowboarding
+      - item: Pilates
         link:
 
-      - item: Cooking
+      - item: Eating
         link:
 
 career-profile:
