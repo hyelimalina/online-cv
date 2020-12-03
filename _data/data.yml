@@ -152,13 +152,9 @@ publications:
 
       - title: Honorary member of STEM
         link: "#"
-        authors: Dean of the College of Engineering, Seoul National University
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Dean of the College of Engineering, SNU
+        conference: "Honor Society STEM (SNU Tomorrow's Engineers Membership), 2019"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -168,7 +164,7 @@ skills:
         level: 98%
 
       - name: Mathematica
-        level: 98%
+        level: 100%
 
       - name: Matlab
         level: 68%
