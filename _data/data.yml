@@ -52,61 +52,33 @@ education:
       university: Seoul National University
       time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        
           - Bullet point
           - Bullet point
     - degree: BSc in Energy Resources Engineering
       university: Seoul National University
       time: 2013 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        
           - Bullet point
           - Bullet point
 experiences:
-    - role: Intern Researcher
-      time: 2019 - Present
+    - role: Extreme Materials Research Center
+      time: Sep, 2020 - Present
       company: Korea Institute of Science and Technology, Republic of Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
           - Patent in Progress: Metastable 3D lattice by topological defects
-          - Patent in Progress: Foldable conformal masks from facial landmarks
-    - role: Manager
+    - role: Computational Science Research Center
+      time: Nov, 2019 - Aug, 2020
+      company: Korea Institute of Science and Technology, Republic of Korea
+      details: |
+          - Patent in Progress: Foldable conformal masks from facial landmarks 
+    - role: Question and Answering Technology Team
       time: Apr, 2019 - Aug, 2019
       company: 42maru, Republic of Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Oral Presentation (at Europe-Korea Conference on Science and Technology): Developing QA algorith using Machine Reading Comprehension 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Oral Presentation (at Europe-Korea Conference on Science and Technology): Developing QA algorith using Machine Reading Comprehension
+
 projects:
     title: Teaching Experiences
     intro: > 
