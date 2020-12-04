@@ -114,31 +114,25 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Teaching Experiences
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Mathematics & Computer Science
     assignments:
-      - title: Velocity
+      - title: Digital Computer Concept and Practice
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "College of Business Administration, SNU"
 
-      - title: DevStudio
+      - title: Engineering Mathematics 2
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Department of Energy Resources Engineering, SNU"
 
-      - title: Tempo
+      - title: Calculus for Life Science 1
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Department of Mathematical Science, SNU"
 
-      - title: Atom
+      - title: Calculus 1
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Department of Mathematical Science, SNU"
 
 publications:
     title: Awards and Honors 
