@@ -115,8 +115,7 @@ experiences:
           - Bullet point
 projects:
     title: Teaching Experiences
-    intro: >
-      Mathematics & Computer Science
+    intro: > 
     assignments:
       - title: Digital Computer Concept and Practice
         link: "#hook"
@@ -128,11 +127,11 @@ projects:
 
       - title: Calculus for Life Science 1
         link: "#"
-        tagline: "Department of Mathematical Science, SNU"
+        tagline: "Department of Mathematical Sciences, SNU"
 
       - title: Calculus 1
         link: "#"
-        tagline: "Department of Mathematical Science, SNU"
+        tagline: "Department of Mathematical Sciences, SNU"
 
 publications:
     title: Awards and Honors 
@@ -169,8 +168,8 @@ skills:
       - name: R
         level: 45%
 
-      - name: Blender & Rhino
-        level: 30%
+      - name: Meshmixer & Blender & Rhino
+        level: 55%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
