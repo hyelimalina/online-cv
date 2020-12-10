@@ -46,7 +46,8 @@ sidebar:
 career-profile:
     title: Career Goal
     summary: |
-      I want to make any natural phenomenon into mathematical model.
+      I am an engineer and computational scientist.
+      
 education:
     - degree: MSc in Comptational Science and Technology
       university: Seoul National University
@@ -63,17 +64,17 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Extreme Materials Research Center
+    - role: Intern at Extreme Materials Research Center
       time: Sep, 2020 - Present
       company: Korea Institute of Science and Technology, Republic of Korea
       details: |
           - Patent in Progress: Metastable 3D lattice by topological defects
-    - role: Computational Science Research Center
+    - role: Visiting Student at Computational Science Research Center
       time: Nov, 2019 - Aug, 2020
       company: Korea Institute of Science and Technology, Republic of Korea
       details: |
           - Patent in Progress: Foldable conformal masks from facial landmarks 
-    - role: Question and Answering Technology Team
+    - role: Manager at Question and Answering Technology Team
       time: Apr, 2019 - Aug, 2019
       company: 42maru, Republic of Korea
       details: |
