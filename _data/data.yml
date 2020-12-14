@@ -45,8 +45,10 @@ sidebar:
 
 career-profile:
     title: Photos
-    summary: |
+    summary1: |
       Photos of me participating in extra-curricular activities
+    summary2: |
+      Photos of structures that I implemented using Mathematica   
       
 education:
     - degree: MSc in Comptational Science and Technology
